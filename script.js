@@ -26,7 +26,7 @@
     init();
   };
 
-  image.src = "https://assets.codepen.io/277/qr-transparent.png?format=auto";
+  image.src = "https://tresoldit-sketch.github.io/sitedvd/stefano.png";
 
   function init() {
     draw();
